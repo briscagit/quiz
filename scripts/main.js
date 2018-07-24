@@ -1,6 +1,7 @@
-var x = document.getElementById("drop");
+var d1 = document.getElementById("drop1");
+var d2 = document.getElementById("drop2");
 // window.alert(x);i
-document.getElementById("score").innerHTML = x;
+document.getElementById("score").innerHTML = d1.value;
 
 
 
