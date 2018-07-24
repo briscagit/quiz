@@ -1,5 +1,6 @@
 var x = document.getElementById("drop");
-window.alert(x);
+// window.alert(x);i
+document.getElementById("score").innerHTML = x;
 
 
 
