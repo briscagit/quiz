@@ -1,3 +1,14 @@
+var x = document.getElementById("drop");
+window.alert(x);
+
+
+
+
+
+
+
+
+/* 
 var image = document.querySelector('img');
 
 image.onclick = function() {
@@ -10,3 +21,5 @@ image.onclick = function() {
     // filter is on
     else image.style.filter = 'invert(0%)';
 }
+*/
+
